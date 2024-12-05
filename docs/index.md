@@ -7,7 +7,14 @@ This project explores the term "women" in the MET API.
 
 ![ Woman by Harold Anchel](woman_sad.jpg)
 
+To save a figure in pandas:
 
+```
+fig = data.value_counts('column').plot(kind='barh').get_figure()
+fig.savefig('filename.png', bbox_inches='tight')
+```
+
+![Chart of banned books](banned(1).png)
 
 <!--        
 
