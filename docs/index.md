@@ -9,7 +9,7 @@ This project explores the term "women" in the MET API.
 
 To save a figure in pandas:
 
-```
+```python
 fig = data.value_counts('column').plot(kind='barh').get_figure()
 fig.savefig('filename.png', bbox_inches='tight')
 ```
