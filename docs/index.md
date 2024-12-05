@@ -2,6 +2,15 @@
 layout: default
 ---
 
+This project explores the term "women" in the MET API. 
+
+
+![ Woman by Harold Anchel](woman_sad.jpg)
+
+
+
+<!--        
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -121,3 +130,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
